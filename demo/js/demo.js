@@ -18,7 +18,7 @@
   };
   if (window.addEventListener) {
     keys = [];
-    themes = ['red', 'blue', 'green', 'grey', 'ios'];
+    themes = ['red', 'yellow', 'blue', 'green', 'grey', 'ios'];
     konami = "38,38,40,40,37,39,37,39,66,65";
     randomTheme = function() {
       return themes[Math.floor(Math.random() * themes.length)];

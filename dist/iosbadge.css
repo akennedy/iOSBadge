@@ -10,26 +10,37 @@
 
 /* BEGIN themes */
 .iosb-red {
-  background-color: #ce0408;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fc5659), color-stop(100%, #ce0408));
-  background: -webkit-linear-gradient(#fc5659, #ce0408);
-  background: -moz-linear-gradient(#fc5659, #ce0408);
-  background: -o-linear-gradient(#fc5659, #ce0408);
-  background: linear-gradient(#fc5659, #ce0408); }
+  background-color: #aa0000;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ff2a2a), color-stop(100%, #aa0000));
+  background: -webkit-linear-gradient(#ff2a2a, #aa0000);
+  background: -moz-linear-gradient(#ff2a2a, #aa0000);
+  background: -o-linear-gradient(#ff2a2a, #aa0000);
+  background: linear-gradient(#ff2a2a, #aa0000); }
   .iosb-red .iosb-content {
     color: white;
-    text-shadow: 1px -1px 1px #8d343b; }
+    text-shadow: 1px -1px 1px #6f0000; }
+
+.iosb-yellow {
+  background-color: #e7a900;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffd668), color-stop(100%, #e7a900));
+  background: -webkit-linear-gradient(#ffd668, #e7a900);
+  background: -moz-linear-gradient(#ffd668, #e7a900);
+  background: -o-linear-gradient(#ffd668, #e7a900);
+  background: linear-gradient(#ffd668, #e7a900); }
+  .iosb-yellow .iosb-content {
+    color: white;
+    text-shadow: 1px -1px 1px #ab7d00; }
 
 .iosb-blue {
-  background-color: #236ed8;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #8eb5ed), color-stop(100%, #236ed8));
-  background: -webkit-linear-gradient(#8eb5ed, #236ed8);
-  background: -moz-linear-gradient(#8eb5ed, #236ed8);
-  background: -o-linear-gradient(#8eb5ed, #236ed8);
-  background: linear-gradient(#8eb5ed, #236ed8); }
+  background-color: #072eaf;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #3e69f7), color-stop(100%, #072eaf));
+  background: -webkit-linear-gradient(#3e69f7, #072eaf);
+  background: -moz-linear-gradient(#3e69f7, #072eaf);
+  background: -o-linear-gradient(#3e69f7, #072eaf);
+  background: linear-gradient(#3e69f7, #072eaf); }
   .iosb-blue .iosb-content {
     color: white;
-    text-shadow: 1px -1px 1px #1e6bd7; }
+    text-shadow: 1px -1px 1px #072179; }
 
 .iosb-green {
   background-color: #1d9a1a;

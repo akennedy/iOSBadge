@@ -1,5 +1,10 @@
 {
-    "project": {},
+    "project": {
+        "options": {
+            "paths": "dist",
+            "outdir": "docs/"
+        }
+    },
     "files": {
         "dist/iosbadge.js": {
             "name": "dist/iosbadge.js",
